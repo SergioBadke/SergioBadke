@@ -16,8 +16,7 @@
 - 📫 How to reach me **sergio.badke.tds@gmail.com**
 
 - ⚡ Fun fact **when I'm not trading nor programming I'm playing League**
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioBadke&show_icons=true&locale=en&layout=compact" alt="korg1ooo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioBadke&show_icons=true&locale=en" alt="korg1ooo" /></p>
